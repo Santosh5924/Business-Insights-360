@@ -2,11 +2,7 @@
 
 [Link to Interactive dashboard](https://app.powerbi.com/groups/73742855-9300-448f-ab1a-d0457b7e7b6a/reports/fd1f9050-4e34-4c96-a14d-ee68bb2b388c/ReportSection0ac825050d6b67146c3e?experience=power-bi)
 
-
-
 AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, marketing, and supply chain.
-
-I, Santosh, worked on this project by following the Codebasics PowerBi Course and used the following tools and techniques:
 
 **Tech Stacks:**
 
