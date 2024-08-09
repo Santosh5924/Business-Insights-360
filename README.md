@@ -40,26 +40,3 @@ AtliQ Hardware sells computers and accessories through retailers and direct dist
 
 **Project Outcome:**
 This project aims to clarify the purpose and goals of the data analytics initiative. The report generated will enable data-driven decision-making and answer numerous questions about the company's performance. It's a step towards surviving and thriving in the industry.
-
-**Overall Report**
-
-Home Page of the Dashboard
-![h](https://app.powerbi.com/groups/73742855-9300-448f-ab1a-d0457b7e7b6a/reports/fd1f9050-4e34-4c96-a14d-ee68bb2b388c/ReportSection0e765c0061580b067c73?experience=power-bi)
-
-Finance View
-![f](https://app.powerbi.com/groups/73742855-9300-448f-ab1a-d0457b7e7b6a/reports/fd1f9050-4e34-4c96-a14d-ee68bb2b388c/ReportSection3e6d270a5b20870d7cd8?experience=power-bi)
-
-Sales View
-![s](https://app.powerbi.com/groups/73742855-9300-448f-ab1a-d0457b7e7b6a/reports/fd1f9050-4e34-4c96-a14d-ee68bb2b388c/ReportSectionbece390d4eee30b77c11?experience=power-bi)
-
-Marketing View
-![m](https://app.powerbi.com/groups/73742855-9300-448f-ab1a-d0457b7e7b6a/reports/fd1f9050-4e34-4c96-a14d-ee68bb2b388c/ReportSectionf24034e2944b6ac43986?experience=power-bi)
-
-Supply Chain View
-![sp](https://app.powerbi.com/groups/73742855-9300-448f-ab1a-d0457b7e7b6a/reports/fd1f9050-4e34-4c96-a14d-ee68bb2b388c/ReportSection2f4ece5e1ab3e33b0a9b?experience=power-bi)
-
-Executive View
-![e](https://app.powerbi.com/groups/73742855-9300-448f-ab1a-d0457b7e7b6a/reports/fd1f9050-4e34-4c96-a14d-ee68bb2b388c/ReportSection0ac825050d6b67146c3e?experience=power-bi)
-
-
-Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
